@@ -1,1 +1,1 @@
-![](./Movie_Recommendation_System.ipynb)
+[Movie_Recommendation_System.ipynb](Movie_Recommendation_System.ipynb) contains the recommedation system. It uses Tf-Idf vectorizer to vectorize the input movie details and cosine similarity is used to get similar movies related to given input.
